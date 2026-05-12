@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Exerc3Lista2\Exerc3Lista2\bin\Debug\Exerc3Lista2.exe.config
+C:\Users\aluno\source\repos\Exerc3Lista2\Exerc3Lista2\bin\Debug\Exerc3Lista2.exe
+C:\Users\aluno\source\repos\Exerc3Lista2\Exerc3Lista2\bin\Debug\Exerc3Lista2.pdb
+C:\Users\aluno\source\repos\Exerc3Lista2\Exerc3Lista2\obj\Debug\Exerc3Lista2.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Exerc3Lista2\Exerc3Lista2\obj\Debug\Exerc3Lista2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Exerc3Lista2\Exerc3Lista2\obj\Debug\Exerc3Lista2.exe
+C:\Users\aluno\source\repos\Exerc3Lista2\Exerc3Lista2\obj\Debug\Exerc3Lista2.pdb
