@@ -1,7 +1,0 @@
-C:\Users\aluno\source\repos\Exerc6Lista2\Exerc6Lista2\bin\Debug\Exerc6Lista2.exe.config
-C:\Users\aluno\source\repos\Exerc6Lista2\Exerc6Lista2\bin\Debug\Exerc6Lista2.exe
-C:\Users\aluno\source\repos\Exerc6Lista2\Exerc6Lista2\bin\Debug\Exerc6Lista2.pdb
-C:\Users\aluno\source\repos\Exerc6Lista2\Exerc6Lista2\obj\Debug\Exerc6Lista2.csproj.AssemblyReference.cache
-C:\Users\aluno\source\repos\Exerc6Lista2\Exerc6Lista2\obj\Debug\Exerc6Lista2.csproj.CoreCompileInputs.cache
-C:\Users\aluno\source\repos\Exerc6Lista2\Exerc6Lista2\obj\Debug\Exerc6Lista2.exe
-C:\Users\aluno\source\repos\Exerc6Lista2\Exerc6Lista2\obj\Debug\Exerc6Lista2.pdb
