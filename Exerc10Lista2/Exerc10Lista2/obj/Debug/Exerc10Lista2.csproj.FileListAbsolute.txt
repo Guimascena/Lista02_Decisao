@@ -1,0 +1,7 @@
+C:\Users\Guilherme Mascena\source\repos\Exerc10Lista2\Exerc10Lista2\bin\Debug\Exerc10Lista2.exe.config
+C:\Users\Guilherme Mascena\source\repos\Exerc10Lista2\Exerc10Lista2\bin\Debug\Exerc10Lista2.exe
+C:\Users\Guilherme Mascena\source\repos\Exerc10Lista2\Exerc10Lista2\bin\Debug\Exerc10Lista2.pdb
+C:\Users\Guilherme Mascena\source\repos\Exerc10Lista2\Exerc10Lista2\obj\Debug\Exerc10Lista2.csproj.AssemblyReference.cache
+C:\Users\Guilherme Mascena\source\repos\Exerc10Lista2\Exerc10Lista2\obj\Debug\Exerc10Lista2.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Mascena\source\repos\Exerc10Lista2\Exerc10Lista2\obj\Debug\Exerc10Lista2.exe
+C:\Users\Guilherme Mascena\source\repos\Exerc10Lista2\Exerc10Lista2\obj\Debug\Exerc10Lista2.pdb
